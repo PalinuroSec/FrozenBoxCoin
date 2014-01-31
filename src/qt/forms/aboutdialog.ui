@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>593</width>
+    <width>600</width>
     <height>331</height>
    </rect>
   </property>
@@ -97,7 +97,7 @@
         <string>
           Copyright © 2009-2012 Bitcoin Developers
           Copyright © 2011-2012 Litecoin Developers
-          Copyright © 2014 Frozenbox Dev Team - Lorenzo EclipseSpark Faletra
+          Copyright © 2014 Frozenbox Team - Lorenzo EclipseSpark Faletra
 
           This is experimental software.
 
