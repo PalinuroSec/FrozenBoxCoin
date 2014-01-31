@@ -2,7 +2,7 @@
 <ui version="4.0">
  <class>AskPassphraseDialog</class>
  <widget class="QDialog" name="AskPassphraseDialog">
-  <property name="GEOmetry">
+  <property name="geometry">
    <rect>
     <x>0</x>
     <y>0</y>
