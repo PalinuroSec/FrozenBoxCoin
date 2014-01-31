@@ -1,0 +1,9 @@
+Building FrozenCoin
+
+See doc/readme-qt.rst for instructions on building frozencoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FrozenCoin.
+
+See doc/build-*.txt for instructions on building frozencoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of FrozenCoin.
