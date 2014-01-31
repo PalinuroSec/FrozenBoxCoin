@@ -45,13 +45,13 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("FrozenCoin");
-    case mBTC: return QString("milliFrozenCoin (1 / 1,000)");
-    case uBTC: return QString("microFrozenCoin (1 / 1,000,000)");
+    case BTC: return QString("FrozenBoxCoin");
+    case mBTC: return QString("milliFrozenBoxCoin (1 / 1,000)");
+    case uBTC: return QString("microFrozenBoxCoin (1 / 1,000,000)");
     default: return QString("???");
     }
 }
-//a single unit (.00000001) of FrozenCoin is called a "wander."
+//a single unit (.00000001) of FrozenBoxCoin is called a "wander."
 qint64 BitcoinUnits::factor(int unit)
 {
     switch(unit)

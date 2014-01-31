@@ -1,4 +1,4 @@
-FrozenCoin 1.0
+FrozenBoxCoin 1.0
 
 Copyright (c) 2009-2012 Bitcoin Developers
 Copyright (c) 2011-2012 Litecoin Developers
@@ -13,7 +13,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-FrozenCoin is a free open source peer-to-peer electronic token system that is
+FrozenBoxCoin is a free open source peer-to-peer electronic token system that is
 completely decentralized, without the need for a central server or trusted
 parties.  Users hold the crypto keys to their own money and transact directly
 with each other, with the help of a P2P network to check for double-spending.
@@ -21,14 +21,14 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Setup
 -----
-You need the Qt4 run-time libraries to run frozencoin-qt. On Debian or Ubuntu:
+You need the Qt4 run-time libraries to run frozenboxcoin-qt. On Debian or Ubuntu:
   sudo apt-get install libqtgui4
 
 Unpack the files into a directory and run:
- bin/32/frozencoin-qt (GUI, 32-bit)
- bin/32/frozencoin (headless, 32-bit)
- bin/64/frozencoin-qt (GUI, 64-bit)
- bin/64/frozencoin (headless, 64-bit)
+ bin/32/frozenboxcoin-qt (GUI, 32-bit)
+ bin/32/frozenboxcoin (headless, 32-bit)
+ bin/64/frozenboxcoin-qt (GUI, 64-bit)
+ bin/64/frozenboxcoin (headless, 64-bit)
 
 
 See the documentation at the bitcoin wiki:
