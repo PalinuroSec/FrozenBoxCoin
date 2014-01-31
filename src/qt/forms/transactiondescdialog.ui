@@ -2,7 +2,7 @@
 <ui version="4.0">
  <class>TransactionDescDialog</class>
  <widget class="QDialog" name="TransactionDescDialog">
-  <property name="geometry">
+  <property name="FBCmetry">
    <rect>
     <x>0</x>
     <y>0</y>

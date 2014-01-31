@@ -2,7 +2,7 @@
 <ui version="4.0">
  <class>SendCoinsDialog</class>
  <widget class="QDialog" name="SendCoinsDialog">
-  <property name="geometry">
+  <property name="FBCmetry">
    <rect>
     <x>0</x>
     <y>0</y>
@@ -20,7 +20,7 @@
       <bool>true</bool>
      </property>
      <widget class="QWidget" name="scrollAreaWidgetContents">
-      <property name="geometry">
+      <property name="FBCmetry">
        <rect>
         <x>0</x>
         <y>0</y>
@@ -119,7 +119,7 @@
           <cursorShape>IBeamCursor</cursorShape>
          </property>
          <property name="text">
-          <string>123.456 GEO</string>
+          <string>123.456 FBC</string>
          </property>
          <property name="textInteractionFlags">
           <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>

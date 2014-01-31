@@ -2,7 +2,7 @@
 <ui version="4.0">
  <class>AddressBookPage</class>
  <widget class="QWidget" name="AddressBookPage">
-  <property name="geometry">
+  <property name="FBCmetry">
    <rect>
     <x>0</x>
     <y>0</y>

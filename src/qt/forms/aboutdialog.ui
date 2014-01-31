@@ -2,7 +2,7 @@
 <ui version="4.0">
  <class>AboutDialog</class>
  <widget class="QDialog" name="AboutDialog">
-  <property name="geometry">
+  <property name="FBCmetry">
    <rect>
     <x>0</x>
     <y>0</y>
@@ -97,7 +97,7 @@
         <string>
           Copyright © 2009-2012 Bitcoin Developers
           Copyright © 2011-2012 Litecoin Developers
-          Copyright © 2013 adam m!
+          Copyright © 2014 Frozenbox Dev Team
 
           This is experimental software.
 

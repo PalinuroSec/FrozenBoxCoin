@@ -7,3 +7,19 @@ implementation of FrozenBoxCoin.
 See doc/build-*.txt for instructions on building frozenboxcoin,
 the intended-for-services, no-graphical-interface, reference
 implementation of FrozenBoxCoin.
+
+
+here it is a little tested sequence of commands that could be used to easily compile everything for Parrot Security OS and debian
+
+
+
+apt-get install git build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev libqrencode-dev qt4-qmake libqt4-dev
+mkdir devel
+cd devel
+git clone https://github.com/EclipseSpark/FrozenBoxCoin.git
+cd FrozenBoxCoin/src
+make -f makefile.unix
+cp frozenboxcoind /usr/bin/frozenboxcoind
+cd ..
+qmake
+make
